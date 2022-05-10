@@ -5,7 +5,9 @@
 - Sou professora das turmas: 1A, 1B, 1C, 1D, 1E, 2A, 2B, 2C, 2D, 3A, 3B, 3C, 3D
 - 
 - Desde a graduação tenho experència com programação: fortran e pascal
-- 
+-
+- Meu e-mail para contato é: eliana5626@gmail.com
+-
 - Nas horas vagas sou triatleta: 🏃‍🏊‍♂️🚴‍♂️
 - 
 
